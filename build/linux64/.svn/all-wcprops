@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/dav/nbp/!svn/ver/5015/eyetracking/edfread/build/linux64
+END
+libedfapi.so
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dav/nbp/!svn/ver/3076/eyetracking/edfread/build/linux64/libedfapi.so
+END
+SUB001.EDF
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dav/nbp/!svn/ver/3076/eyetracking/edfread/build/linux64/SUB001.EDF
+END
+mexopts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dav/nbp/!svn/ver/3063/eyetracking/edfread/build/linux64/mexopts.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dav/nbp/!svn/ver/5015/eyetracking/edfread/build/linux64/Makefile
+END
+edfread.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dav/nbp/!svn/ver/5015/eyetracking/edfread/build/linux64/edfread.mexa64
+END
+libedfapi.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dav/nbp/!svn/ver/3063/eyetracking/edfread/build/linux64/libedfapi.a
+END

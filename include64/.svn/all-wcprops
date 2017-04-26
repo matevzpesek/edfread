@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/dav/nbp/!svn/ver/3078/eyetracking/edfread/include64
+END
+edf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/dav/nbp/!svn/ver/3078/eyetracking/edfread/include64/edf.h
+END
+edftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/dav/nbp/!svn/ver/3078/eyetracking/edfread/include64/edftypes.h
+END
+edf_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/dav/nbp/!svn/ver/3078/eyetracking/edfread/include64/edf_data.h
+END

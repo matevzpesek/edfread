@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/dav/nbp/!svn/ver/3098/eyetracking/edfread/build/macIntel
+END
+edfapi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dav/nbp/!svn/ver/13/eyetracking/edfread/build/macIntel/edfapi
+END
+mexopts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dav/nbp/!svn/ver/13/eyetracking/edfread/build/macIntel/mexopts.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dav/nbp/!svn/ver/3098/eyetracking/edfread/build/macIntel/Makefile
+END
